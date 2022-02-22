@@ -1,0 +1,26 @@
+.root{
+    --primary:
+}
+
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+.header{
+    background-color: rgb(230, 220, 208);
+}
+.header--title{
+    color: #f2b366;
+    text-transform: uppercase;
+    text-shadow:1.5px 1.5px black;
+    text-align: center;
+}
+.menu--item{
+    text-decoration: none;
+    padding: 0.2rem;
+    background-color:#3f2f21;
+    color: #f2b366;
+    border-radius: 10px;
+}
